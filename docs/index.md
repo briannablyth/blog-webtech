@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Aleisha & Brittany's Blog
 
-You can use the [editor on GitHub](https://github.com/luccilean/blog-webtech/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone! This is a portfolio for our web technologies class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Aleisha
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Selfie!](images/IMG_0667.jpeg)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I'm studying contemporary web design at Durham College. It's my first year and unfortunately we're learning from home, but so far it's been an enjoyable experience. Outside of school hours, I'm usually at work or playing The Sims 4.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### About Brittany
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luccilean/blog-webtech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact Info
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: [aleisha.silvera@durhamcollege.ca](mailto:aleisha.silvera@durhamcollege.ca)
+
